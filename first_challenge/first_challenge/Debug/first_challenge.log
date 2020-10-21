@@ -1,0 +1,4 @@
+﻿  test_03.cpp
+f:\documents\visual studio 2017\projects\first_challenge\first_challenge\cellconversion.h(76): warning C4101: 'numberOfPoints': unreferenced local variable
+f:\documents\visual studio 2017\projects\first_challenge\first_challenge\test_03.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+opencv_world410d.lib(opencv_world410d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

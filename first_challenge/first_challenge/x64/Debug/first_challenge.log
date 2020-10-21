@@ -1,0 +1,22 @@
+﻿  sightseeing.cpp
+g:\ubuntu\first_challenge\first_challenge\kmeans.h(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\kmeans.h(114): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\kmeans.h(142): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\kmeans.h(297): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\kmeans.h(358): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(178): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(251): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(273): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(322): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(341): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\sightseeing.cpp(443): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  test_04.cpp
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(229): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(278): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(342): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(378): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(438): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\ubuntu\first_challenge\first_challenge\test_04.cpp(457): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  test_05.cpp
+  Generating Code...
+  first_challenge.vcxproj -> G:\Ubuntu\first_challenge\x64\Debug\first_challenge.exe
